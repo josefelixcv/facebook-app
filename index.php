@@ -4,5 +4,8 @@
             echo $_GET['hub_challenge'];
     }
 
+    echo "Hola";
     http_response_code(200);
 ?>
+
+
